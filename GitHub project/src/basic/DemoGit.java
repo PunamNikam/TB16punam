@@ -15,4 +15,9 @@ public class DemoGit {
 		System.out.println("new change");
 		
 	}
+	public void  m5()
+	{
+		System.out.println("m1\5...method");
+	}
+	
 }
