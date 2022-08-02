@@ -23,6 +23,7 @@ public class DemoGit {
 	{
 		System.out.println("m1\5...method");
 		System.out.println("m5..method");
+		System.out.println("********");
 		
 	}
 	
